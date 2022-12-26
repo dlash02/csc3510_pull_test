@@ -17,7 +17,8 @@ public class PassChecker {
         // 4. Must contain one of these special characters: *&$!(
         //
 
-
+        // This is a branch change ... how do you like me
+        /// now!!!!!
         if (pw == null || pw.Length < 8)  {
             return false;
         }
