@@ -15,6 +15,7 @@ public class PassChecker {
         // 2. Must contain a capital letter
         // 3 Must be at least 8 characters
         // 4. Must contain one of these special characters: *&$!(
+        //
         return true;
 
     }
