@@ -16,6 +16,9 @@ public class PassChecker {
         // 3 Must be at least 8 characters
         // 4. Must contain one of these special characters: *&$!(
         //
+
+        if (pw == null) throw new ArgumentNullException();
+        else Console.WriteLine("Hellow there");
         return true;
 
     }
