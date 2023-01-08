@@ -1,0 +1,15 @@
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\IntroCSharp1\IntroCSharp1\bin\Debug\net6.0\IntroCSharp1.exe
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\IntroCSharp1\IntroCSharp1\bin\Debug\net6.0\IntroCSharp1.deps.json
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\IntroCSharp1\IntroCSharp1\bin\Debug\net6.0\IntroCSharp1.runtimeconfig.json
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\IntroCSharp1\IntroCSharp1\bin\Debug\net6.0\IntroCSharp1.dll
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\IntroCSharp1\IntroCSharp1\bin\Debug\net6.0\IntroCSharp1.pdb
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\IntroCSharp1\IntroCSharp1\obj\Debug\net6.0\IntroCSharp1.csproj.AssemblyReference.cache
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\IntroCSharp1\IntroCSharp1\obj\Debug\net6.0\IntroCSharp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\IntroCSharp1\IntroCSharp1\obj\Debug\net6.0\IntroCSharp1.AssemblyInfoInputs.cache
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\IntroCSharp1\IntroCSharp1\obj\Debug\net6.0\IntroCSharp1.AssemblyInfo.cs
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\IntroCSharp1\IntroCSharp1\obj\Debug\net6.0\IntroCSharp1.csproj.CoreCompileInputs.cache
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\IntroCSharp1\IntroCSharp1\obj\Debug\net6.0\IntroCSharp1.dll
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\IntroCSharp1\IntroCSharp1\obj\Debug\net6.0\refint\IntroCSharp1.dll
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\IntroCSharp1\IntroCSharp1\obj\Debug\net6.0\IntroCSharp1.pdb
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\IntroCSharp1\IntroCSharp1\obj\Debug\net6.0\IntroCSharp1.genruntimeconfig.cache
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\IntroCSharp1\IntroCSharp1\obj\Debug\net6.0\ref\IntroCSharp1.dll

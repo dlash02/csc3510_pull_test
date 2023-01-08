@@ -1,0 +1,15 @@
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\ConsoleUnitTest1\ConsoleUnitTest1\obj\Debug\net6.0\ConsoleUnitTest1.csproj.AssemblyReference.cache
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\ConsoleUnitTest1\ConsoleUnitTest1\obj\Debug\net6.0\ConsoleUnitTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\ConsoleUnitTest1\ConsoleUnitTest1\obj\Debug\net6.0\ConsoleUnitTest1.AssemblyInfoInputs.cache
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\ConsoleUnitTest1\ConsoleUnitTest1\obj\Debug\net6.0\ConsoleUnitTest1.AssemblyInfo.cs
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\ConsoleUnitTest1\ConsoleUnitTest1\obj\Debug\net6.0\ConsoleUnitTest1.csproj.CoreCompileInputs.cache
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\ConsoleUnitTest1\ConsoleUnitTest1\bin\Debug\net6.0\ConsoleUnitTest1.exe
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\ConsoleUnitTest1\ConsoleUnitTest1\bin\Debug\net6.0\ConsoleUnitTest1.deps.json
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\ConsoleUnitTest1\ConsoleUnitTest1\bin\Debug\net6.0\ConsoleUnitTest1.runtimeconfig.json
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\ConsoleUnitTest1\ConsoleUnitTest1\bin\Debug\net6.0\ConsoleUnitTest1.dll
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\ConsoleUnitTest1\ConsoleUnitTest1\bin\Debug\net6.0\ConsoleUnitTest1.pdb
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\ConsoleUnitTest1\ConsoleUnitTest1\obj\Debug\net6.0\ConsoleUnitTest1.dll
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\ConsoleUnitTest1\ConsoleUnitTest1\obj\Debug\net6.0\refint\ConsoleUnitTest1.dll
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\ConsoleUnitTest1\ConsoleUnitTest1\obj\Debug\net6.0\ConsoleUnitTest1.pdb
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\ConsoleUnitTest1\ConsoleUnitTest1\obj\Debug\net6.0\ConsoleUnitTest1.genruntimeconfig.cache
+C:\Users\dlash\Documents\GitHub\csc3510_pull_test\ConsoleUnitTest1\ConsoleUnitTest1\obj\Debug\net6.0\ref\ConsoleUnitTest1.dll
