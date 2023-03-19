@@ -23,5 +23,32 @@ namespace TestPhone {
             Assert.IsTrue(ret);
 
         }
+        [TestMethod]
+        public void TestValidFirstCharacter() {
+            string ph = "955-555-1212";
+            PhoneManager pm = new PhoneManager(ph);
+            bool ret = pm.checkFirst3(ph);
+            Console.WriteLine("PhCh3:{0} ret:{1}", ph, ret);
+            Assert.IsTrue(ret);
+
+        }
+        [TestMethod]
+        public void TestValidCentralOffic() {
+            string ph = "0555551212";
+            PhoneManager pm = new PhoneManager(ph);
+            bool ret = pm.checkCentralOffice(ph);
+            Console.WriteLine("PhCh4:{0} ret:{1}", ph, ret);
+            Assert.IsTrue(ret);
+
+        }
+        [TestMethod]
+        public void TestValidCentralOfficBadFirst() {
+            string ph = "0551551212";
+            PhoneManager pm = new PhoneManager(ph);
+            bool ret = pm.checkCentralOffice(ph);
+            Console.WriteLine("PhCh4:{0} ret:{1}", ph, ret);
+            Assert.IsFalse(ret);
+
+        }
     }
 }

@@ -20,9 +20,46 @@ namespace ConsoleApp3 {
                 }
                 //return true;
             }
+            if ( pNum.Length== 10  ) {
+
+               if( !checkFirst3(pNum)) {
+                    return false;
+                }
+              
+            }
+            if (checkCentralOffice(pNum)) {
+                result = true;
+            }
 
 
             return result;
+        }
+
+        public  bool checkCentralOffice(string pNum) {
+            bool result = true;
+            string cOff = null;
+            if( pNum.Length == 10  ) {
+                cOff = pNum.Substring(3, 3);
+               
+            } else {
+                cOff = pNum.Substring(0, 2);
+            }
+            if (cOff[0] == '1') return false;
+            if (cOff[1] == '9') return false;
+
+            return result;
+        }
+
+        public Boolean checkFirst3( String phoneNumber ) {
+            char fCh = phoneNumber[0];
+            if ( fCh >= '2' && fCh <= '9'  ) {
+                return true;
+            } else {
+                return false;
+            }
+
+          
+
         }
     }
        
